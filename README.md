@@ -2,22 +2,21 @@
 [Sports Analytics]
 
 ## Project Objective
-The objective of this HR Analytics dashboard is to analyze employee attrition and understand the factors that contribute to it. This includes examining patterns and trends in attrition across various dimensions such as age group, salary slabs, education fields, job roles, and gender. Key KPIs like Attrition Rate, Average Age, Average Salary, and Average Tenure are tracked to identify high-risk segments and support strategic HR decisions. The insights derived aim to help organizations reduce employee turnover, improve workforce planning, and enhance employee retention strategies.
+The objective of this Olympics 2024 dashboard is to provide an interactive visual analysis of the Paris 2024 Olympic Games. The goal is to explore athlete and country performances, medal distributions, and historical trends. By examining dimensions such as countries, athlete demographics, medal types, and sporting disciplines, the dashboard uncovers patterns and provides actionable insights for analysts, enthusiasts, and sports professionals. Key KPIs include medal tallies, gold medal counts, athlete age distributions, gender splits, and performance trends across editions. These insights enable data-driven storytelling, highlight emerging talents, and reveal factors contributing to Olympic success.
 
 ## Dataset used
 - <a href="https://github.com/aditya-kumaarr/power_bi_Hr_analytics_p1/blob/main/HR_Analytics.csv">Dataset</a>
 
 ## Questions (KPIs)
-- What is the overall employee attrition rate?
-- What is the average age of employees?
-- What is the average monthly salary of employees?
-- What is the average years of experience (tenure) in the organization?
-- Which job roles have the highest attrition rates?
-- What is the gender-wise distribution of attrition?
-- Which education field has the most attrition cases?
-- How does attrition vary across different age groups?
-- Which marital status group has the highest attrition?
-- What are the attrition patterns across various salary slabs?
+- What is the overall medal tally for each country?
+- Which countries dominated in gold, silver, and bronze medals?
+- How is medal distribution by sport?
+- What is the gender-wise participation and medal split?
+- Who are the top athletes and standout performances?
+- Which age groups achieved the most success?
+- What historic medal trends stand out across past Olympic editions?
+- How do countries' performances compare over time?
+- Which sports or nations saw the greatest improvements in Paris 2024?
 
 ##Dashboard Interaction <a href="https://github.com/aditya-kumaarr/power_bi_Hr_analytics_p1/blob/main/assets/dashboard.png">View Dashboard</a>
 
