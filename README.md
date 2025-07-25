@@ -61,9 +61,6 @@ The dashboard’s time-slider allows users to explore the evolution of the Olymp
 - Custom Interactivity and Self-Service Analytics: The dashboard features multiple layers of interactivity, including slicers for year, nation, sport, gender, and medal type. This enables users—regardless of technical background—to explore their own questions, from medal trends by continent to breakthrough performances by underdog countries.
 
 ## Final Conclusion
-- This HR Analytics Dashboard project was designed to help organizations understand employee attrition trends through data-driven insights. Using Power BI, we analyzed key HR metrics such as Attrition Rate, Department-wise Attrition, Job Role Impact, and Demographic Influence on attrition.
-- The dashboard simplifies complex HR data into clear and actionable visuals, empowering decision-makers to identify areas of concern and develop strategies to improve employee retention. The ability to slice data across Age, Department, and Job Role makes it a dynamic tool for in-depth HR analysis.
-- This project not only demonstrates strong skills in Power BI and data storytelling, but also showcases the ability to translate raw data into business insights, which is essential for any data analytics role.
 - This Olympics 2024 Power BI Dashboard transforms the immense complexity of the world’s largest sporting event into an accessible, interactive, and insight-rich experience. By merging historical context, real-time results, and multidimensional analysis, it provides not just a static recount of the Paris Games but a true exploration platform for understanding the dynamics of global athletic achievement.
 - The project exemplifies how modern data analytics can move beyond simple reporting to generate strategic insights:
 • Stakeholders can pinpoint investment opportunities in sports where their nations show rising potential.
