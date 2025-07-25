@@ -1,4 +1,6 @@
-# OLYMPICS DASHBOARD [Sports Analytics](Interactive Dashboard Built with Power BI)
+# OLYMPICS DASHBOARD (Interactive Dashboard Built with Power BI)
+[Sports Analytics]
+
 ## Project Objective
 The objective of this HR Analytics dashboard is to analyze employee attrition and understand the factors that contribute to it. This includes examining patterns and trends in attrition across various dimensions such as age group, salary slabs, education fields, job roles, and gender. Key KPIs like Attrition Rate, Average Age, Average Salary, and Average Tenure are tracked to identify high-risk segments and support strategic HR decisions. The insights derived aim to help organizations reduce employee turnover, improve workforce planning, and enhance employee retention strategies.
 
