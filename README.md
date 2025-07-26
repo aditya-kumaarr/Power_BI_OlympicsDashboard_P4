@@ -6,6 +6,14 @@ The objective of this Olympics 2024 dashboard is to provide an interactive visua
 
 ## Dataset used
 - <a href="https://github.com/aditya-kumaarr/power_bi_Hr_analytics_p1/blob/main/HR_Analytics.csv">Dataset</a>
+- <a href="https://github.com/aditya-kumaarr/Power_BI_OlympicsDashboard_P4/blob/main/raw_datasets/athletes.csv">Athletes</a>
+- <a href="https://github.com/aditya-kumaarr/Power_BI_OlympicsDashboard_P4/blob/main/raw_datasets/medallists.csv">Medallists</a>
+- <a href="https://github.com/aditya-kumaarr/Power_BI_OlympicsDashboard_P4/blob/main/raw_datasets/medals.csv">Medals</a>
+- <a href="https://github.com/aditya-kumaarr/Power_BI_OlympicsDashboard_P4/blob/main/raw_datasets/medals_total.csv">Medals_Total</a>
+- <a href="https://github.com/aditya-kumaarr/Power_BI_OlympicsDashboard_P4/blob/main/raw_datasets/teams.csv">Teams</a>
+- <a href="https://github.com/aditya-kumaarr/Power_BI_OlympicsDashboard_P4/blob/main/raw_datasets/Olympic_Games_Medal_Tally.csv">Oympic_Games_Medal_Tally</a>
+- <a href="https://github.com/aditya-kumaarr/Power_BI_OlympicsDashboard_P4/blob/main/raw_datasets/Games%20Icon.xlsx">Games_Icon</a>
+- <a href="https://github.com/aditya-kumaarr/Power_BI_OlympicsDashboard_P4/blob/main/raw_datasets/Countries%20with%20Flags%20URL.csv">Countries_With_Flag</a>
 
 ## Questions (KPIs)
 - What is the overall medal tally for each country?
