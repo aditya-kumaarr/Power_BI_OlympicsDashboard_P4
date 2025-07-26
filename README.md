@@ -43,10 +43,11 @@ Calculated as the total Attrition_Count divided by the total EmployeeCount.
 ## Dashboard
 
 ![Screenshot (495)](https://github.com/aditya-kumaarr/Power_BI_OlympicsDashboard_P4/blob/main/assets/Home.png)
-![Screenshot (495)](https://github.com/aditya-kumaarr/power_bi_Hr_analytics_p1/blob/main/assets/dashboard.png)
-![Screenshot (495)](https://github.com/aditya-kumaarr/power_bi_Hr_analytics_p1/blob/main/assets/dashboard.png)
-![Screenshot (495)](https://github.com/aditya-kumaarr/power_bi_Hr_analytics_p1/blob/main/assets/dashboard.png)
-![Screenshot (495)](https://github.com/aditya-kumaarr/power_bi_Hr_analytics_p1/blob/main/assets/dashboard.png)
+![Screenshot (495)](https://github.com/aditya-kumaarr/Power_BI_OlympicsDashboard_P4/blob/main/assets/Overview.png)
+![Screenshot (495)](https://github.com/aditya-kumaarr/Power_BI_OlympicsDashboard_P4/blob/main/assets/Animation_Overview.png)
+![Screenshot (495)](https://github.com/aditya-kumaarr/Power_BI_OlympicsDashboard_P4/blob/main/assets/Athletes.png)
+![Screenshot (495)](https://github.com/aditya-kumaarr/Power_BI_OlympicsDashboard_P4/blob/main/assets/Country.png)
+![Screenshot (495)](https://github.com/aditya-kumaarr/Power_BI_OlympicsDashboard_P4/blob/main/assets/Historical.png)
 
 ## Project Insight
 - Overall Attrition Rate: The dashboard shows an attrition rate of 16.1%, indicating that a noticeable proportion of employees are leaving the organization.
