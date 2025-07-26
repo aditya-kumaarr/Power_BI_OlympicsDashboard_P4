@@ -42,7 +42,7 @@ Calculated as the total Attrition_Count divided by the total EmployeeCount.
   
 ## Dashboard
 
-![Screenshot (495)]((https://github.com/aditya-kumaarr/Power_BI_OlympicsDashboard_P4/blob/main/assets/Home.png))
+![Screenshot (495)](https://github.com/aditya-kumaarr/Power_BI_OlympicsDashboard_P4/blob/main/assets/Home.png)
 ![Screenshot (495)](https://github.com/aditya-kumaarr/power_bi_Hr_analytics_p1/blob/main/assets/dashboard.png)
 ![Screenshot (495)](https://github.com/aditya-kumaarr/power_bi_Hr_analytics_p1/blob/main/assets/dashboard.png)
 ![Screenshot (495)](https://github.com/aditya-kumaarr/power_bi_Hr_analytics_p1/blob/main/assets/dashboard.png)
