@@ -39,7 +39,8 @@ Calculated as the total Attrition_Count divided by the total EmployeeCount.
 ![Screenshot (495)](https://github.com/aditya-kumaarr/power_bi_Hr_analytics_p1/blob/main/assets/attrition_rate.png)
 - Designed interactive visuals (cards, bar charts, pie charts) to answer key business questions.
 - Integrated all visuals into a single dashboard and used slicers to make the dashboard dynamic and user-friendly.
-- 
+- ![DAX Measures Table](assets/dax_measures_table.png)
+
   
 ## Dashboard
 
