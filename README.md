@@ -29,17 +29,13 @@ The objective of this Olympics 2024 dashboard is to provide an interactive visua
 ##Dashboard Interaction <a href="https://github.com/aditya-kumaarr/power_bi_Hr_analytics_p1/blob/main/assets/dashboard.png">View Dashboard</a>
 
 ## Process
-- Verified data for missing values and anomalies using Power BI’s Power Query Editor and handled inconsistencies.
-- Ensured data consistency by formatting columns appropriately and standardizing data types.
-- Created Attrition_Count column using DAX in the data modeling section:
-Assigned a value of 1 for each row where Attrition = "Yes" and 0 otherwise.
-![Screenshot (495)](https://github.com/aditya-kumaarr/power_bi_Hr_analytics_p1/blob/main/assets/attrition_count.png)
-- Created Attrition_Rate measure using DAX in the data modeling section:
-Calculated as the total Attrition_Count divided by the total EmployeeCount.
-![Screenshot (495)](https://github.com/aditya-kumaarr/power_bi_Hr_analytics_p1/blob/main/assets/attrition_rate.png)
-- Designed interactive visuals (cards, bar charts, pie charts) to answer key business questions.
-- Integrated all visuals into a single dashboard and used slicers to make the dashboard dynamic and user-friendly.
-- ![DAX Measures Table](assets/dax_measures_table.png)
+- Cleaned and verified data using Power Query Editor—handled missing values, outliers, and standardized columns for consistency.
+- Built relationships between tables in Model View to ensure seamless cross-filtering and robust analytics.
+- Created key measures with DAX, including custom calculations for medal ratios, ranking, YoY improvement, and demographic splits.
+- Designed a responsive layout: medal maps, leaderboards, gender and age visuals, country and athlete pages, and historical trendlines.
+- Integrated all visuals into a cohesive dashboard with slicers for region, medal type, and year to support dynamic exploration.
+- All the Dax Measure's that I used in this Project can be seen in this following table - 
+- ![Screenshot (495)](https://github.com/aditya-kumaarr/Power_BI_OlympicsDashboard_P4/blob/main/assets/Dax%20measures%20used%20in%20Olympic%20project.png)
 
   
 ## Dashboard
